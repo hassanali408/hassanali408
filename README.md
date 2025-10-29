@@ -3,11 +3,8 @@
 💻 Skilled in React, Next.js, Node.js, and Express<br>
 🤖 Passionate about Artificial Intelligence, Automation, and Scalable Systems<br>
 🐙 My GitHub: [https://github.com/hassanali408](https://github.com/hassanali408)
+🔗 My LinkedIn: [https://linkedin.com/in/hassan408](https://linkedin.com/in/hassanali408)
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanali408) 
 
 ---
 
