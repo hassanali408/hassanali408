@@ -46,8 +46,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 🪄 Animated Intro
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hassan+Ali+👋;MERN+Stack+Developer+💻;AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+🚀;Tech+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </p>
